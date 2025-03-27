@@ -4,8 +4,8 @@ def add(a,b,e):
 def mul(a,b,d):
     return a*b*d
 
-def sub(a,b):
-    return a-b
+def sub(a,b,f):
+    return a-b*f
 
 def div(a,b,f):
     return a/b+f
