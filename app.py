@@ -5,6 +5,7 @@ def mul(a,b,d):
     return a*b*d
 
 def sub(a,b,f):
+    print("hello substract")
     return a-b*f
 
 def div(a,b,f):
