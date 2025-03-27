@@ -1,5 +1,5 @@
-def add(a,b,c):
-    return a+b+c
+def add(a,b,e):
+    return a+b+e
 
 def mul(a,b,c):
     return a*b
